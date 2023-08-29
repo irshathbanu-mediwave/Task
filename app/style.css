@@ -1,5 +1,15 @@
-h2{
+.one{
     color:crimson;
     font-family:'Courier New';
-    font-size: medium;
+    font-size: xx-large;
+    text-align: center;
+
+}
+body{
+    background: linear-gradient(to top, #6600cc 40%, #ffffff 60%);
+}
+.two
+{
+    padding: 40px;
+    text-align: center;
 }
