@@ -9,7 +9,10 @@ body{
     background: linear-gradient(to top, #6600cc 40%, #ffffff 60%);
 }
 .two
-{
+{   font-weight: bold;
+    font-family: 'Lucida Sans';
+    font-size: larger;
+    color:black;
     padding: 40px;
     text-align: center;
 }
